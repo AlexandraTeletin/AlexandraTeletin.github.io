@@ -6,7 +6,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
@@ -38,7 +38,7 @@
     </div>
 
     <script src=questions.js></script>
-    <script src="main.js"></script>
+    <script src="quizpersonalitate.js"></script>
 </body>
 
 </html>
